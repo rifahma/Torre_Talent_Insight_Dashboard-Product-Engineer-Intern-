@@ -315,7 +315,8 @@ After trying the official API and unofficial but publicly access, it didn't work
 
 """Instead, we can make the simulated job search"""
 
-!pip install ipywidgets
+import os
+os.system("pip install streamlit pyngrok requests pandas plotly ipywidgets")
 
 """We can use this data that we make ONLY fpr job search integration"""
 
