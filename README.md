@@ -26,3 +26,7 @@ Resources Used
 
 Notes:
 Torre’s official and unofficial job search APIs had limitations in Colab (CORS, request body issues), so job data is simulated for demonstration purposes.
+
+ATTENTION!!
+Sometimes it shows error when you want to see the preview of my code due to the large size in ipynb. Instead, you can access my Google Colab here:
+https://colab.research.google.com/drive/14QZHsCK5_IWh-ZgrLXNmlEALvOfzBOfk?usp=sharing
