@@ -1,0 +1,6 @@
+streamlit
+pyngrok
+requests
+pandas
+plotly
+ipywidgets
