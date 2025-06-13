@@ -241,7 +241,7 @@ plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 plt.show()
 
-"""## Job search integration
+"""## Job search integration (Internal role alignment)
 
 We'll build a function to search for jobs based on a keyword (e.g., "python, "data analyst") with filter whther the location is remote or on-site.   
 
