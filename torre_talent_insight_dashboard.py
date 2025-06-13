@@ -26,7 +26,8 @@ This is not just a "name search" but a step towards smarter, insight-driven deci
 """
 
 # install required libraries
-!pip install streamlit pyngrok requests pandas plotly
+import os
+os.system("pip install streamlit pyngrok requests pandas plotly")
 
 # import libraries
 import requests
